@@ -1,0 +1,19 @@
+body {
+    background-color: gray;
+    background-image: url("background.png");
+    background-size: 100% auto;
+    color: #041D28;
+    text-align: center;
+    text-shadow:
+    -.5px -.5px 0 #797a79,
+    .5px -.5px 0 #797a79,
+    -.5px .5px 0 #797a79,
+    .5px .5px 0 #797a79;
+}
+p {
+    color: purple;
+    text-align: left;
+}
+a {
+    color: #586F7C
+}
