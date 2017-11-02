@@ -1,0 +1,31 @@
+body{
+    background-image: url("img.jpg");
+    background-size: 100% auto;
+}
+div.navzone{
+    background-color: #F9C7FF;
+    width: 700px;
+    border-radius: 25px;
+    margin: 0 auto;
+    padding: 20px;
+}
+div.content{
+    background-image: url("img2.jpg");
+    background-size: 100% auto;
+    text-align: center;
+    width: 700px;
+    border-radius: 25px;
+    margin: 0 auto;
+    padding: 20px;
+}
+div.prose{
+    background-color: #F9C7FF;
+    text-align: left;
+    width: 600px;
+    border-radius: 25px;
+    margin: 0 auto;
+    padding: 20px;
+}
+div.extreme{
+    text-align: center;
+}

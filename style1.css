@@ -1,8 +1,8 @@
 body {
-    background-color: gray;
-    background-image: url("background.png");
+    background-image: url("img3.jpg");
+    background-attachment: fixed;
     background-size: 100% auto;
-    color: #041D28;
+    color: #232826;
     text-align: center;
     text-shadow:
     -.5px -.5px 0 #797a79,
@@ -10,10 +10,19 @@ body {
     -.5px .5px 0 #797a79,
     .5px .5px 0 #797a79;
 }
+ul{
+    text-align: left;
+}
 p {
-    color: purple;
+    color: #232826;
     text-align: left;
 }
 a {
-    color: #586F7C
+    color: #183642
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
 }
