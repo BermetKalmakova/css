@@ -1,0 +1,46 @@
+body{
+    background-image: url("art.jpg");
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+.one{
+    background-color: #7681A2;
+    width: 700px;
+    border-radius: 25px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #CFCFBA;
+    opacity: 0.6;
+}
+.one:hover{
+    opacity: 1;
+}
+.two{
+    background-color: #505B8B;
+    width: 700px;
+    border-radius: 25px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #CFCFBA;
+    opacity: 0.6;
+}
+.two:hover{
+    opacity: 1;
+}
+.three{
+    background-color: #1F2C7F;
+    width: 700px;
+    border-radius: 25px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #CFCFBA;
+    opacity: 0.6;
+}
+.three:hover{
+    opacity: 1;
+}
+.list:hover{
+    background-image: url("art2.jpg");
+    border-radius: 25px;
+}
+
